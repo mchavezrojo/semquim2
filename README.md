@@ -1,4 +1,4 @@
-# Welcome to streamlit
+# Aplicación para reconocimiento de digitos
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
