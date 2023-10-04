@@ -23,6 +23,7 @@ if np.any(canvas_result.image_data):
     st.header('Predicción:')
     st.markdown('Creo que escribiste un  \n # :red[' + str(prediction) + ']')
     st.toast('Me gusta ese número', icon='🐷')
+    st.balloons()
 else:
     # Display message if canvas is empty
     st.header('Prediction:')
